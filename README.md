@@ -1,10 +1,5 @@
 # 📚 Bookshelf API
-
-Submission Bookshelf API
-
-🗒️ [Sertifikat Kompetensi Kelas Belajar Membuat Aplikasi Back-End untuk Pemula.pdf](https://github.com/madfauzy/Bookshelf-API/files/9489815/Sertifikat-Kompetensi-Kelas-Belajar-Membuat-Aplikasi-Back-End-untuk-Pemula.pdf) [^1]
-
-## 🚀 Deskripsi Program
+## 🚀 Deskripsi Latihan Program
 
 - **Pengenalan ke Back-End** : Menjelaskan peran front-end dan back-end, bagaimana cara client dan server berkomunikasi melalui protokol HTTP, dan arsitektur RESTFul API dalam membangun web service.
 - **Dasar-Dasar Node.js** : Mengenal Node.js serta mengetahui dasar dari Node.js seperti global dan process object, modularization, Node Package Manager (NPM), eventing, filesystem, dan teknik stream. 
