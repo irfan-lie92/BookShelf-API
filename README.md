@@ -8,4 +8,4 @@
 - **Mengonsumsi dan Menguji RESTful API menggunakan Postman** : Memasang Postman. Mengonsumsi RESTful API untuk tujuan pengujian dan menuliskan skenario uji otomatis menggunakan Postman.
 
 ## 🚀 Test Sistem
-npm run start
+### npm run start
